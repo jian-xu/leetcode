@@ -11,7 +11,6 @@ class Solution:
         :type root: TreeNode
         :rtype: TreeNode
         """
-
         if not root:
             return root
         stack = [root]
